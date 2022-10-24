@@ -1,0 +1,18 @@
+'''
+Numpy 1.22.3
+Pandas
+sklearn
+matplotlib
+conda miniconda
+miniforge
+pip
+anaconda
+vscode
+
+Started setting up machine for MLE-10 tasks
+done
+
+
+
+'''
+
