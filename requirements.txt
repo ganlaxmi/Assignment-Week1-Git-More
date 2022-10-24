@@ -1,5 +1,15 @@
 '''
 Numpy 1.22.3
 Pandas
+sklearn
+matplotlib
+conda miniconda
+miniforge
+pip
+anaconda
+vscode
+
+
+
 '''
 
