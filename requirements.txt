@@ -9,6 +9,9 @@ pip
 anaconda
 vscode
 
+Started setting up machine for MLE-10 tasks
+done
+
 
 
 '''
